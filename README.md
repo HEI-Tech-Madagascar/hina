@@ -14,8 +14,8 @@ future digital platform for the HEI Tech Club Madagascar.
 ## Installation
 
 ```bash
-git clone https://github.com/HEI-Tech-Madagascar/hina.git
-cd hina
+git clone https://github.com/HEI-Tech-Madagascar/Hina.git
+cd Hina
 npm install
 npm run dev
 ```
